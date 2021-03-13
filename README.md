@@ -4,7 +4,7 @@
 
 ### Olá pessoal 👋
 
-Sou formada em Engenharia Civil e aceitei o desafio de me lançar na área da tecnologia e programação, estou aprendendo os conceitos de lógica de programação e iniciando com projetos em PHP, Javascript, HTML e CSS.
+Sou formada em Engenharia Civil e aceitei o desafio de me lançar na área da tecnologia e programação. Estou aprendendo os conceitos de lógica de programação e iniciando com projetos em PHP, Javascript, TypeScript, React, React Native, Node, Next, Bootstrap e outros (confira meus repositórios 💻). 
  
  <br/> :email: &nbsp; Entre em contato comigo: 
  
